@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vijay Kumar V
 *A passionate Web Developer || Web3 Learner*
 
-Email Me 👉 ✉️ *sohumnaidu121@gmail.com* For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ *vijayv3717@gmail.com* For Collaboration/Project or Anything Else. 😊😊
 
 - 🔭 *I’m currently working on:* Contributing and solving bugs on OpenSource
 - 🌱 *I’m currently learning:* Web3 development
